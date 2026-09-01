@@ -15,7 +15,7 @@ HTML5 • CSS3 • Vanilla JavaScript • GitHub Pages
 - `assets/documents/MD-RAYHAN-HOSEN-CV-Portfolio.pdf` — public-facing CV generated from the supplied CV content
 
 ## GitHub Pages
-Repository: `md-rayhan-hose.github.io`
+Repository: `md-rayhan-hosen.github.io`
 Expected URL: `https://md-rayhan-hose.github.io`
 
 ## Privacy
