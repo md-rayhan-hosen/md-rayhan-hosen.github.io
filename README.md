@@ -16,7 +16,7 @@ HTML5 • CSS3 • Vanilla JavaScript • GitHub Pages
 
 ## GitHub Pages
 Repository: `md-rayhan-hosen.github.io`
-Expected URL: `https://md-rayhan-hose.github.io`
+Expected URL: `https://md-rayhan-hosen.github.io`
 
 ## Privacy
 Private-only CV fields such as NID, religion, marital status and date of birth are intentionally excluded from the public portfolio.
